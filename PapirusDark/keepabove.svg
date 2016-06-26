@@ -15,7 +15,7 @@
    id="svg4428"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="keepbelow.svg">
+   sodipodi:docname="keepabove.svg">
   <defs
      id="defs4430">
     <linearGradient
@@ -35,7 +35,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2.86"
-     inkscape:cx="67.26658"
+     inkscape:cx="62.286713"
      inkscape:cy="19.569785"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -139,7 +139,8 @@
          y="962.55316">deactivated-center</tspan></text>
     <g
        id="active-center"
-       inkscape:label="#g4230">
+       inkscape:label="#g4230"
+       transform="matrix(1,0,0,-1,0,2076.7244)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          y="-25"
@@ -162,13 +163,14 @@
              id="path4194"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,292.41501,-12.4592)"
              d="M -17.585938,7.34375 -19,8.7578125 -14.757812,13 -10.515625,8.7578125 -11.929688,7.34375 -14.757812,10.171875 -17.585938,7.34375 Z m 0,4 L -19,12.757812 -14.757812,17 l 4.242187,-4.242188 -1.414063,-1.414062 -2.828124,2.828125 -2.828126,-2.828125 z"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
     <g
        id="hover-center"
-       inkscape:label="#g4236">
+       inkscape:label="#g4236"
+       transform="matrix(1,0,0,-1,0,2076.7244)">
       <rect
          style="opacity:0;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4276"
@@ -191,13 +193,14 @@
              id="rect31992"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,264.83784,15.117965)"
              d="M 21.414062,7.34375 20,8.7578125 24.242188,13 28.484375,8.7578125 27.070312,7.34375 24.242188,10.171875 21.414062,7.34375 Z m 0,4 L 20,12.757812 24.242188,17 28.484375,12.757812 27.070312,11.34375 24.242188,14.171875 21.414062,11.34375 Z"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.92;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
     <g
        id="pressed-center"
-       inkscape:label="#g4243">
+       inkscape:label="#g4243"
+       transform="matrix(1,0,0,-1,0,2076.7244)">
       <rect
          style="opacity:0;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect4198"
@@ -220,13 +223,14 @@
              id="path4204"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,235.13936,44.81645)"
              d="M 63.414062,7.34375 62,8.7578125 66.242188,13 70.484375,8.7578125 69.070312,7.34375 66.242188,10.171875 63.414062,7.34375 Z m 0,4 L 62,12.757812 66.242188,17 70.484375,12.757812 69.070312,11.34375 66.242188,14.171875 63.414062,11.34375 Z"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
     <g
        id="inactive-center"
-       inkscape:label="#g4257">
+       inkscape:label="#g4257"
+       transform="matrix(1,0,0,-1,0,2076.7244)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          y="100"
@@ -249,13 +253,14 @@
              id="path4214"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,204.02666,75.929148)"
              d="M 107.41406,7.34375 106,8.7578125 110.24219,13 114.48438,8.7578125 113.07031,7.34375 110.24219,10.171875 107.41406,7.34375 Z m 0,4 L 106,12.757812 110.24219,17 l 4.24219,-4.242188 -1.41407,-1.414062 -2.82812,2.828125 -2.82813,-2.828125 z"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
     <g
        id="deactivated-center"
-       inkscape:label="#g4263">
+       inkscape:label="#g4263"
+       transform="matrix(1,0,0,-1,0,2076.7244)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          y="150"
@@ -278,7 +283,7 @@
              id="path4224"
              transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,168.67132,111.28449)"
              d="M 157.41406,7.34375 156,8.7578125 160.24219,13 164.48438,8.7578125 163.07031,7.34375 160.24219,10.171875 157.41406,7.34375 Z m 0,4 L 156,12.757812 160.24219,17 l 4.24219,-4.242188 -1.41407,-1.414062 -2.82812,2.828125 -2.82813,-2.828125 z"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>

@@ -34,7 +34,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.64"
+     inkscape:zoom="3.28"
      inkscape:cx="91.032326"
      inkscape:cy="19.569785"
      inkscape:document-units="px"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,7 +158,7 @@
            inkscape:label="actions"
            id="g4192">
           <path
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
              id="path4194"
              d="m 292.00081,3.99666 0,4 -4,0 0,2 6,0 c 0,0 0,0 0,-6 z"
              inkscape:connector-curvature="0"
@@ -191,7 +191,7 @@
              inkscape:connector-curvature="0"
              d="m 292.00081,3.99666 0,4 -4,0 0,2 6,0 c 0,0 0,0 0,-6 z"
              id="rect31992"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.92;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
@@ -220,7 +220,7 @@
              inkscape:connector-curvature="0"
              d="m 292.00081,3.99666 0,4 -4,0 0,2 6,0 c 0,0 0,0 0,-6 z"
              id="path4204"
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.72;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none" />
         </g>
       </g>
     </g>
@@ -245,7 +245,7 @@
            inkscape:label="actions"
            id="g4212">
           <path
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
              id="path4214"
              d="m 292.00081,3.99666 0,4 -4,0 0,2 6,0 c 0,0 0,0 0,-6 z"
              inkscape:connector-curvature="0"
@@ -274,7 +274,7 @@
            inkscape:label="actions"
            id="g4222">
           <path
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
              id="path4224"
              d="m 292.00081,3.99666 0,4 -4,0 0,2 6,0 c 0,0 0,0 0,-6 z"
              inkscape:connector-curvature="0"
