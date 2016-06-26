@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/droserasprout/papirus-aurorae-theme-git/master/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/droserasprout/papirus-dark-aurorae-theme/master/preview.png" alt="preview"/>
 </p>
 
 # Install
